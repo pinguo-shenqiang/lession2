@@ -1,4 +1,4 @@
-init at 19:29
+﻿init at 19:29
 注意！ 
 添加代码的时候应按照如下规则：
 名字 +第几次 at 时间
@@ -11,7 +11,39 @@ zhangsan +2 at 19:27
 
 liaofeng +1 at 19:36
 liuhongwei +1 at 19:43
+
+
 liuzhaohui +1 at 19:46
 baiziying +1 at 19:51
 liuzhaohui +2 at 19:55
-lihai +1 at 20:00
+liuhongwei +2 at 19:57
+baiziying +2 at 19:57
+shenqiang +1 at 20:02
+liaofeng +2 at 20:08
+shenqiang +1 at 20:02 
+liuhongwei +3 at 20:04
+baiziying +3 at 20:05
+majianguang +1 at 20:06
+baiziying +4 at 20:13
+baiziying +5 at 20:17
+majianguang +2 at 20:19
+liaofeng +3 at 20:19
+wangzhong +1 at 20:28
+majianguang +3 at 20:29
+liuhongwei +4 at 20:30
+tanglei +1 at 20:31
+baiziying +6 at 20:33
+liuzhaohui +3 at 20:33
+majianguang +4 at 20:34
+liaofeng +4 at 20:36
+wangzhong +2 at 20:41
+tanglei +2 at 20:44
+wangzhong +3 at 20:45
+shenqiang +2 at 20:47
+zhangzhi +1 at 20:49
+tanglei +3 at 20:50
+zhangzhi +2 at 20:53
+tanglei +4 at 20:54
+zhangzhi +3 at 20:56
+majianguang +5 at 20:57
+lihai +1 at 21:00
