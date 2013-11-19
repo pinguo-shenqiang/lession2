@@ -21,7 +21,6 @@ baiziying +2 at 19:57
 shenqiang +1 at 20:02
 liaofeng +2 at 20:08
 shenqiang +1 at 20:02 
->>>>>>> lhw/Feature1
 liuhongwei +3 at 20:04
 baiziying +3 at 20:05
 majianguang +1 at 20:06
